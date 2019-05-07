@@ -1,0 +1,34 @@
+route_id,route_short_name,route_long_name,route_type
+1,001,Market Street,3
+2,003,Third Street,3
+4,006,Sixth Street,3
+5,007,Middletown,3
+6,008,Derry / Rutherford,3
+7,009,Cameron Street / HACC,3
+8,012,Colonial Park - Colonial Commons - Gateway - Linglestown,3
+9,013,Paxton Street,3
+11,017,Union Deposit / Hamilton Health Center,3
+13,019,Steelton,3
+14,020,High Pointe Commons,3
+16,023,Elizabethville - Millersburg - Halifax,3
+18,003-6,Route 3-6 Night Loop,3
+19,039,Herr Street / Blue Mt. Commons,3
+20,081,Shippensburg - Newville - Carlisle - Harrisburg Express,3
+21,082,Shippensburg - Newville - Mechanicsburg NSA Express,3
+22,120X,Winding Hill Express,3
+23,322,Hershey / Hummelstown,3
+24,A,New Cumberland,3
+25,B,Highland Park / Westport,3
+26,C Loc,Carlisle - Local Service,3
+27,C Exp,Carlisle - Express Service,3
+29,F,Enola,3
+32,M Loc,Mechanicsburg - Local Service,3
+36,AB,Abacus,3
+39,M Exp,Mechanicsburg - Express Service,3
+43,Groc-E,East Shore Grocery Shopper,3
+45,027,Hall Manor via Hamilton Health Center,3
+48,002,Capitol Complex / ROC Shuttle,3
+53,CY,Carlisle Pike Warehouses (Chewy),3
+54,014,Springford / Union Deposit,3
+55,D,Erford Road / Capital City Mall,3
+56,W,Allen Road Warehouses,3

@@ -1,0 +1,23 @@
+stops.txt
+OrderedDict([('stop_id', '499718'), ('stop_name', 'Derry St & S 15th St'), ('stop_lat', '40.262547'), ('stop_lon', '-76.86541'), ('location_type', '0')])
+
+calendar_dates.txt
+OrderedDict([('date', '20170116'), ('service_id', '1'), ('exception_type', '2')])
+
+agency.txt
+OrderedDict([('agency_id', 'CAT'), ('agency_name', 'Capital Area Transit'), ('agency_url', 'http://www.cattransit.com'), ('agency_timezone', 'America/New_York'), ('agency_lang', 'en'), ('agency_phone', '(717) 238-8304'), ('agency_fare_url', 'http://www.cattransit.com/shop'), ('agency_email', '')])
+
+trips.txt
+OrderedDict([('trip_id', '493'), ('route_id', '20'), ('service_id', '1'), ('trip_headsign', 'Inbound'), ('block_id', '1301'), ('shape_id', '78')])
+
+stop_times.txt
+OrderedDict([('trip_id', '429'), ('stop_id', '499549'), ('arrival_time', '16:00:00'), ('departure_time', '16:00:00'), ('stop_sequence', '0'), ('shape_dist_traveled', '0.0')])
+
+routes.txt
+OrderedDict([('route_id', '1'), ('route_short_name', '001'), ('route_long_name', 'Market Street'), ('route_type', '3')])
+
+calendar.txt
+OrderedDict([('service_id', '1'), ('monday', '1'), ('tuesday', '1'), ('wednesday', '1'), ('thursday', '1'), ('friday', '1'), ('saturday', '0'), ('sunday', '0'), ('start_date', '20161101'), ('end_date', '20181231')])
+
+shapes.txt
+OrderedDict([('shape_id', '0'), ('shape_pt_sequence', '0'), ('shape_dist_traveled', '0.0'), ('shape_pt_lat', '40.2598639604'), ('shape_pt_lon', '-76.8816334772')])
